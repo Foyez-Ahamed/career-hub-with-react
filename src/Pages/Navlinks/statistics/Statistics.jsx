@@ -1,9 +1,10 @@
+import Home from "../../Home/Home";
 
 
 const Statistics = () => {
     return (
         <div>
-            <h1>This statistics</h1>
+           <Home></Home>
         </div>
     );
 };
